@@ -1,0 +1,34 @@
+
+
+.logo_image{
+	width: 120px;
+}
+.image_div{
+	height: 800px;
+	overflow: hidden;
+}
+.image_1{
+	background-image: url("image/a.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.image_2{
+	background-image: url("image/b.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.image_3{
+	background-image: url("image/c.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.card_text{
+	background-image: linear-gradient(to right, rgba(0,0,0,0.2), rgba(0,0,0,.6), rgba(0,0,0,.8), rgba(0,0,0,.8), rgba(0,0,0,.2));
+}
+.text_sml{
+	margin-top: -30px;
+	margin-left: -30px;
+}
